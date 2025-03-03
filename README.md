@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">📌 Frameworks:-   TensorFlow, PyTorch, Keras<br>📌 Tools :-    NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly<br>📌	Technologies :- Statistical Analysis,  Sentiment  Analysis, Computer Vision, Natural Language Processing, Neural Network 
+<p align="left">📌 Frameworks:-   TensorFlow, PyTorch, Keras, Hugging Face<br>📌 Tools :-    NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly<br>📌	Technologies :- Statistical Analysis,  Sentiment  Analysis, Computer Vision, Natural Language Processing, Neural Network 
      Architectures, Algorith Optimization. <br>📌 Others:- Jupyter Notebook, Pycharm, Docker</p>
 
 ###
