@@ -9,7 +9,7 @@
 ###
 
 
-<h1 align="center">A passionate Machine Learning developer from India</h1>
+<h1 align="center">A passionate Artificial Intelligence developer from India</h1>
 
 ###
 <p align="left">My name is  Dikshant Patel. <br>📚  I am currently in my final semester of a Master's program in Mechatronics and Robotics at FH Schmalkalden University of Applied Sciences in Germany. <br>🥷   My Expertise in  Machine Learning and Deep Learning Programmer with developing, implementing, and optimizing models and algorithms. <br>🗂️ I am more toward involve in Supervised and Unsupervised Learning(Statistic & Sentiment Analysis).</p>
